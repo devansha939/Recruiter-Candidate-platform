@@ -1,1 +1,1 @@
-This is a platform to connect Vendor and Trainer.
+This is a platform to connect recruiters and candidates.
